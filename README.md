@@ -11,7 +11,7 @@ NumPy
 
 Jupyter Notebook / VS Code
 
-Matplotlib / Seaborn (for initial EDA)
+
 
 📄 Project Overview
 Loaded raw dataset(s) containing missing values, duplicates, inconsistent formatting, and outliers.
